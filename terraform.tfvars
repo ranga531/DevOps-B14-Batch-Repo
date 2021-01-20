@@ -1,0 +1,6 @@
+access_key = "AKIA2QEFLENWPKO2P5OX"
+secret_key = "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"
+vpc_1_name = "DEVOPS_B14_VPC_1"
+vpc_2_name = "DEVOPS_B14_VPC_2"
+vpc_1_cidr = "10.6.0.0/16"
+vpc_2_cidr = "10.60.0.0/16"
